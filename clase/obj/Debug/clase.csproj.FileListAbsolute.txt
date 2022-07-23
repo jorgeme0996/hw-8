@@ -1,0 +1,6 @@
+/Users/jorgedejesusmartinezespino/Documents/X|P_Lic/Progra/clase/clase/bin/Debug/clase.exe
+/Users/jorgedejesusmartinezespino/Documents/X|P_Lic/Progra/clase/clase/bin/Debug/clase.pdb
+/Users/jorgedejesusmartinezespino/Documents/X|P_Lic/Progra/clase/clase/obj/Debug/clase.csproj.AssemblyReference.cache
+/Users/jorgedejesusmartinezespino/Documents/X|P_Lic/Progra/clase/clase/obj/Debug/clase.csproj.CoreCompileInputs.cache
+/Users/jorgedejesusmartinezespino/Documents/X|P_Lic/Progra/clase/clase/obj/Debug/clase.exe
+/Users/jorgedejesusmartinezespino/Documents/X|P_Lic/Progra/clase/clase/obj/Debug/clase.pdb
